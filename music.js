@@ -652,7 +652,7 @@ client.on('message', message => {
 **:gear: اوامر الادارة  **
 \`setStreaming\` : لجعل وضع البوت ستريمنق
 \`setWatching\` : لجعل وضع البوت واتشنق
-\`setListening\` : لجعل وضع البوت ليستننق
+\`setListening\` : لجعل وضع البوت ليستننق>
 \`setName\` :  لتغيير أسم البوت
 \`setAvatar\` : لتغيير صورة البوت
 \`setStatus\` : لتغيير حالة البوت
