@@ -6,11 +6,11 @@ const fs = require('fs');
 const r1 = require('snekfetch');
 client.on('warn', console.warn);
 client.on('error', console.error);
-const GUILDID = '671469237897789441'; //  تعديل مهم ايدي السيرفر  
-const CHANNELID = '721262068568686612'; // تعديل مهم ايدي الروم الصوتي
+const GUILDID = '346917141036924929'; //  تعديل مهم ايدي السيرفر  
+const CHANNELID = '724612076051628083'; // تعديل مهم ايدي الروم الصوتي
 
 //البرفكس
-const prefix = "ne"; // تعديل مهم حط هنا البرفكس او مقدمة الامر
+const prefix = "2"; // تعديل مهم حط هنا البرفكس او مقدمة الامر
 
 client.on("ready", () => {
   console.log(`Logged in as ${client.user.tag}!`);
@@ -114,7 +114,7 @@ var value = cmds[key];
 
 const ytdl = require('ytdl-core');
 const YouTube = require('simple-youtube-api');
-const youtube = new YouTube("AIzaSyDW0Dq9A-YLmndnp8e4AG8snjE9yQdfAvU"); 
+const youtube = new YouTube("AIzaSyCjW7tXeou7onrfO3hyQABMXndGJOq0bzc"); 
 
 let active = new Map();
 
